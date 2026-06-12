@@ -33,9 +33,6 @@ Reading and writing files using `fstream`, parsing structured data, binary I/O, 
 ### 🧠 Memory Management
 Deep dives into manual memory management, smart pointers (`unique_ptr`, `shared_ptr`, `weak_ptr`), RAII, custom allocators, memory leak detection, and the difference between stack and heap.
 
-### 🏆 Competitive Programming
-Optimized C++ solutions to problems from platforms like **LeetCode**, **Codeforces**, and **HackerRank** — focused on time complexity, space complexity, and clean implementation under constraints.
-
 ### 🖥️ System Programming
 Low-level C++ programs interfacing with the OS — covering process management, socket programming, signal handling, and working with system calls.
 
@@ -74,4 +71,3 @@ make
 
 **Kareem1220**  
 [github.com/Kareem1220](https://github.com/Kareem1220)
-
